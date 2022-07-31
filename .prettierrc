@@ -1,0 +1,8 @@
+# Prettier configuration
+arrowParens: avoid
+bracketSameLine: false
+printWidth: 160
+semi: false
+singleQuote: true
+tabWidth: 2
+useTabs: false
